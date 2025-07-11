@@ -5,7 +5,7 @@ github: Denyme24
 twitter: ""
 linkedin: ""
 slack: ""
-joining_date: 14 July
+joining_date: "14/07/2025"
 role: intern
 ---
 
