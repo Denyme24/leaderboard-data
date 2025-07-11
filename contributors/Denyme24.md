@@ -1,6 +1,6 @@
 ---
 name: Naman Raj
-title: Full Stack Developer
+title: Full Stack Developer Intern
 github: Denyme24
 twitter: ""
 linkedin: ""
